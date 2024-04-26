@@ -93,15 +93,15 @@ include ('header.php')
         <div class="col-12 col-md-4 p-5 mt-3">
             <a href="./uniformes.php"><img src="../imagenes/Uniformes.jpg" class="rounded-circle img-fluid border"></a>
             <h5 class="text-center mt-3 mb-3">Uniformes</h5>
-            <p class="text-center"><a href="./uniformes.php" class="btn btn-success ">Ver Mas</a></p>
+            <p class="text-center"><a href="Uniformes_FT.php" class="btn btn-success ">Ver Mas</a></p>
         </div>
         <div class="col-12 col-md-4 p-5 mt-3">
             <a href="./calzado.php"><img src="../imagenes/calzado.jpeg" class="rounded-circle img-fluid border"></a>
             <h2 class="h5 text-center mt-3 mb-3">Calzado</h2>
-            <p class="text-center"><a href="./calzado.php" class="btn btn-success">Ver Mas</a></p>
+            <p class="text-center"><a href="calzado.php" class="btn btn-success">Ver Mas</a></p>
         </div>
         <div class="col-12 col-md-4 p-5 mt-3">
-            <a href="#"><img src="../imagenes/condecoraciones.jpeg" class="rounded-circle img-fluid border"></a>
+            <a href="parches.php"><img src="../imagenes/condecoraciones.jpeg" class="rounded-circle img-fluid border"></a>
             <h2 class="h5 text-center mt-3 mb-3">Distintivos y Condecoraciones</h2>
             <p class="text-center"><a class="btn btn-success">Ver Mas</a></p>
         </div>
