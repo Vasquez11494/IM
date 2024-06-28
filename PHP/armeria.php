@@ -30,7 +30,7 @@ include ('header.php')
                         <div class="card-body">
                             <a href="shop-single.html" class="h3 text-decoration-none">Botas Pixeladas 5.11</a>
                             <ul class="w-100  d-flex justify-content-between mb-0">
-                                <li>Tenemos variedad de tallas disponibles 28, 29, 30, 31, 32, 33</li>
+                                <li>Tenemos variedad de tallas disponibles 28, 29, 30</li>
                             </ul>
                             <p class="text-center mb-0">$470.00</p>
                         </div>
